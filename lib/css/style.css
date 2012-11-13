@@ -1,0 +1,42 @@
+#wrapper{
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+#loader{
+    visibility: hidden;
+    margin-top: 50px;
+    
+}
+
+#search-button{
+    margin-left: 1.5em;
+    
+}
+
+.title{
+    margin-bottom: 0.2em;
+    margin-top: 1.5em;
+}
+
+.sourceengine { 
+    font-size: 0.8em;
+    margin-left: 1.8em;
+    color: #FF8C00;
+}
+
+a.sitelink{
+    color:#00F;
+}
+
+.url {
+    font-size: 0.7em;
+    color: #006400;
+}
+
+.abstract{
+    font-size: 0.8em;
+    margin-bottom: 5em;
+}
